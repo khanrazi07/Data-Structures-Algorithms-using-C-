@@ -61,5 +61,5 @@ Track daily problem-solving progress
 
 Maintain clean, readable, and optimized C++ solutions
 
-Prepare for SDE / Internship / Placement interviews
+Prepare for SDE / Internship / Placement interviews 
 
